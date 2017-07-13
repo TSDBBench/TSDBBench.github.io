@@ -5,7 +5,7 @@
 
 TSDBBench is a benchmaring framework to measure the performance of time series databases (TSDBs). It constists of following components:
 
-- [YCSB-TS](https://github.com/TSDBBench/YCSB-TS) - a fork of [YCSB](https://github.com/brianfrankcooper/YCSB) that is adopted to use basic time domain functions and support timestamps and timeranges.
+- [YCSB-TS](http://tsdbbench.github.io/YCSB-TS/) - a fork of [YCSB](https://github.com/brianfrankcooper/YCSB) that is adopted to use basic time domain functions and support timestamps and timeranges.
 - [Overlord](http://tsdbbench.github.io/Overlord/) - takes care about the installation of the databases and the execution of the benchmark.
 
 Additional information:
