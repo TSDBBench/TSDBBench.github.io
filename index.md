@@ -1,6 +1,3 @@
----
----
-
 # TSDBBench
 
 TSDBBench is a benchmaring framework to measure the performance of time series databases (TSDBs). It constists of following components:
@@ -12,6 +9,7 @@ Additional information:
 
 - [List of supported databases](http://tsdbbench.github.io/Overlord/#supported-databases)
 - [Comparision of all available Open Source Time Series Databases](https://tsdbbench.github.io/Ultimate-TSDB-Comparison/) - an [ultimate comparison](http://ultimate-comparisons.github.io/).
+* [TSDBBench Box at atlas](https://atlas.hashicorp.com/TSDBBench/boxes/tsdbbench_dummy.box)
 
 Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Overlord/>.
 
@@ -22,5 +20,5 @@ Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Ove
 
 ## Related Work
 
-* [TSDBBench Box at atlas](https://atlas.hashicorp.com/TSDBBench/boxes/tsdbbench_dummy.box)
+* [BenchFoundry](https://github.com/dbermbach/BenchFoundry)
 * [YCSB-TS](https://github.com/TSDBBench/YCSB-TS)
