@@ -22,3 +22,17 @@ Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Ove
 
 * [BenchFoundry](https://github.com/dbermbach/BenchFoundry)
 * [YCSB-TS](https://github.com/TSDBBench/YCSB-TS)
+
+## Funding
+
+TSDBBench received funding from the
+[Federal Ministry for Economic Affairs and Energy](http://www.bmwi.de/Navigation/EN/Home/home.html)
+in the context of the project [NEMAR](https://www.nemar.de/).
+
+![BMWi](BMWi.jpg)
+
+![NEMAR](NEMAR.jpg)
+
+## Impress
+
+See <https://www.uni-stuttgart.de/impressum/>.
