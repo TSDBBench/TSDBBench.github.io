@@ -9,7 +9,8 @@ Additional information:
 
 - [List of supported databases](http://tsdbbench.github.io/Overlord/#supported-databases)
 - [Comparision of all available Open Source Time Series Databases](https://tsdbbench.github.io/Ultimate-TSDB-Comparison/) - an [ultimate comparison](http://ultimate-comparisons.github.io/).
-* [TSDBBench Box at atlas](https://atlas.hashicorp.com/TSDBBench/boxes/tsdbbench_dummy.box)
+- [TSDBBench Box at atlas](https://atlas.hashicorp.com/TSDBBench/boxes/tsdbbench_dummy.box)
+- [Diploma Thesis on TSDBBench including result diagrams](http://www2.informatik.uni-stuttgart.de/cgi-bin/NCSTRL/NCSTRL_view.pl?id=DIP-3729&mod=0&engl=0&inst=FAK)
 
 Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Overlord/>.
 
