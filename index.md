@@ -22,7 +22,7 @@ Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Ove
 ## Related Work
 
 * [BenchFoundry](https://github.com/dbermbach/BenchFoundry)
-* [YCSB-TS](https://github.com/TSDBBench/YCSB-TS)
+* [influxdb-comparisons](https://github.com/influxdata/influxdb-comparisons)
 
 ## Funding
 
