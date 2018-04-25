@@ -16,7 +16,7 @@ Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Ove
 
 ## Scientific Work
 
-* [Survey and Comparison of Open Source TSDBs](http://btw2017.informatik.uni-stuttgart.de/slidesandpapers/E4-14-109/paper_web.pdf) [[slides]](http://btw2017.informatik.uni-stuttgart.de/slidesandpapers/E4-14-109/slides.pdf)
+* [Survey and Comparison of Open Source TSDBs](https://dl.gi.de/handle/20.500.12116/922) [[slides]](http://btw2017.informatik.uni-stuttgart.de/slidesandpapers/E4-14-109/slides.pdf)
 * [Comparison of TSDBs](http://www2.informatik.uni-stuttgart.de/cgi-bin/NCSTRL/NCSTRL_view.pl?id=DIP-3729&mod=0&engl=0&inst=FAK)
 
 ## Related Work
