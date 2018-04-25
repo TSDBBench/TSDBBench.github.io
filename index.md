@@ -28,13 +28,13 @@ Full documentation of TSDDBench is available at <https://tsdbbench.github.io/Ove
 
 TSDBBench received funding from the
 [Federal Ministry for Economic Affairs and Energy](http://www.bmwi.de/Navigation/EN/Home/home.html)
-in the context of the project [NEMAR](https://www.nemar.de/).
+in the context of the project [NEMAR](http://forschung-stromnetze.info/projekte/neue-maerkte-im-stromnetz-aufzeigen-und-bedienen/).
 
 [![BMWi](BMWi.jpg)](http://www.bmwi.de/Navigation/EN/Home/home.html)
 
 [![StromNetze](logo-stromnetze.svg)](http://forschung-stromnetze.info/)
 
-[![NEMAR](NEMAR.jpg)](https://www.nemar.de/)
+[![NEMAR](NEMAR.jpg)](http://forschung-stromnetze.info/projekte/neue-maerkte-im-stromnetz-aufzeigen-und-bedienen/)
 
 ## Impress
 
